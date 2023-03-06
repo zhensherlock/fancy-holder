@@ -19,7 +19,7 @@
 - 🔑 Fully Typed APIs
 - 📦️ Extremely light
 
-works with both Vue 2 , Vue 3 And React.
+FancyHolder works with both Vue 2 , Vue 3 And React.
 
 # Translations
 
