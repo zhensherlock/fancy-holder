@@ -34,7 +34,8 @@ export default {
           // collapsible: true,
           items: [
             { text: 'Introduce', link: '/guide/what-is-this' },
-            { text: 'Getting Started', link: '/guide/getting-started' }
+            { text: 'Getting Started', link: '/guide/getting-started' },
+            { text: 'Placeholder', link: '/guide/placeholder' }
           ]
         }
       ]
